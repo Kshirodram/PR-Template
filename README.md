@@ -1,5 +1,7 @@
 # Pull Request Template
 
+![Pull Request Template Image](pr_image.png)
+
 We believe that crafting good code is not enough. Programming is about being disclipined. Pull Requests are an extension of this value when it comes to collaborative programming.
 
 This document is a standard for raising Pull Requests for any of Skcript's repos on Github. 
