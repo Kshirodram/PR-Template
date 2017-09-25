@@ -4,7 +4,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 
 ## Types of changes
 
-What types of changes does your code introduce to Allt?
+What types of changes does your code introduce to this project?
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
@@ -24,7 +24,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
 
-You can also link your Allt board here
+You can also link your [Allt](https://allt.in/) board here.
 
 ### Reviewers: 
 
